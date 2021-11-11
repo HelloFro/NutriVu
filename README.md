@@ -2,4 +2,4 @@
 
 Public Demo of Projects Final Form
 
-![]("Demo Slide.png")
+![](https://github.com/HelloFro/NutriVu/blob/main/Demo%20Slide.png)
